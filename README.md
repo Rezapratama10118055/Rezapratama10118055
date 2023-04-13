@@ -34,7 +34,7 @@ I'm Reza ([23](https://github.com/Rezapratama10118055/Rezapratama10118055) yos) 
 
 <br>
 
-<img src="https://img.freepik.com/free-vector/binary-code-white-background-with-floating-numbers_1017-25331.jpg?w=740&t=st=1681356182~exp=1681356782~hmac=e7ad29baf47402fe8cb7eb3dcfd328ec9c14a8e91e4981a98f3be4011d4362e4" width="500">
+<img src="https://img.freepik.com/free-vector/binary-code-white-background-with-floating-numbers_1017-25331.jpg?w=740&t=st=1681356182~exp=1681356782~hmac=e7ad29baf47402fe8cb7eb3dcfd328ec9c14a8e91e4981a98f3be4011d4362e4" width="1000" height="200">
 
 
 
