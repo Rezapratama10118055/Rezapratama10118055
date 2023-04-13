@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 I'm Reza ([23](https://github.com/Rezapratama10118055/Rezapratama10118055) yos) ! :sunglasses:
 
-I'd like to do project that has relation to anime. :ghost:
-
 :page_with_curl: I'm currently learning:
 <br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
