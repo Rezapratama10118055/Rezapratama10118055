@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-I'm Reza ([23](https://github.com/Rezapratama10118055/Rezapratama10118055) y.o) ! :sunglasses:
+I'm Reza ([23](https://github.com/Rezapratama10118055/Rezapratama10118055) yos) ! :sunglasses:
 
 I'd like to do project that has relation to anime. :ghost:
 
@@ -43,6 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 Feel free to contact me :yum:
 <br><br>
 
-<a href="https://www.linkedin.com/in/reza-pratama-a1a857194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
-<a href="mailto:rezapr21@gmail.com"><img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange"></a>
+<a href="https://www.linkedin.com/in/reza-pratama-a1a857194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rezapratama-informational"></a>
+<a href="mailto:rezapr21@gmail.com"><img src="https://img.shields.io/badge/Email-rezapr21%40gmail.com-orange"></a>
 
