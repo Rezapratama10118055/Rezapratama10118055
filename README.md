@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-I'm Reza ([23](https://github.com/Rezapratama10118055/Rezapratama10118055) yos) ! :sunglasses:
+I'm Reza ([24](https://github.com/Rezapratama10118055/Rezapratama10118055) yos) ! :sunglasses:
 
 :page_with_curl: I'm currently learning:
 <br><br>
